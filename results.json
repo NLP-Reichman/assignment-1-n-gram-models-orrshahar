@@ -1,0 +1,29 @@
+{
+  "test_link": {
+    "link": null
+  },
+  "test_preprocess": {
+    "vocab_length": 1724
+  },
+  "test_build_lm": {
+    "english_2_gram_length": 719,
+    "english_3_gram_length": 5093,
+    "french_3_gram_length": 5026,
+    "spanish_3_gram_length": 5147
+  },
+  "test_eval": {
+    "en_on_en": 20.21,
+    "en_on_fr": 65.57,
+    "en_on_tl": 47.8,
+    "en_on_nl": 45.54
+  },
+  "test_generate": {
+    "english_2_gram": "i amoup0nvilzag wett psy",
+    "english_3_gram": "i amice\" \ud83d\ude44",
+    "english_4_gram": "i love neggoldtrant got ti",
+    "spanish_2_gram": "soyotrurpuc\u00f3nfen hano i",
+    "spanish_3_gram": "soye",
+    "french_2_gram": "je suis:/jxeditcepais:////9",
+    "french_3_gram": "je suis !"
+  }
+}
